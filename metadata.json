@@ -1,0 +1,7 @@
+{
+  "name": "ClayCaption",
+  "description": "Offline AI video caption generator, translator, Claymorphism editor & MP4 subtitle exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">ClayCaption</string>
+    <string name="app_tagline">Offline AI Video Subtitles &amp; Translator</string>
+    <string name="app_description">Privacy-first on-device speech recognition, translation, and subtitle burn-in.</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_models">Models</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_style">Style</string>
+    <string name="nav_export">Export</string>
+    
+    <!-- Home Actions -->
+    <string name="action_import_video">Import Video</string>
+    <string name="action_try_demo">Try Sample Video</string>
+    <string name="action_new_project">New Project</string>
+    <string name="recent_projects">Recent Projects</string>
+    <string name="no_recent_projects">No projects yet. Import a video to begin!</string>
+    <string name="offline_ready">100% Offline Ready</string>
+    <string name="offline_ready_desc">All AI processing stays on your device.</string>
+    
+    <!-- Video Info -->
+    <string name="video_duration">Duration: %s</string>
+    <string name="video_resolution">Resolution: %s</string>
+    <string name="video_size">File Size: %s</string>
+    <string name="select_video">Select Video</string>
+    
+    <!-- Languages -->
+    <string name="spoken_language">Spoken Language</string>
+    <string name="subtitle_language">Subtitle Language</string>
+    <string name="auto_detect">Auto-Detect Language</string>
+    <string name="translate_subtitles">Translate Subtitles</string>
+    <string name="translation_enabled">Translation Active</string>
+    <string name="search_language">Search language or code…</string>
+    
+    <!-- Transcription Process -->
+    <string name="generating_captions">Generating Captions</string>
+    <string name="extracting_audio">Extracting audio track…</string>
+    <string name="analyzing_speech">Analyzing speech &amp; timestamps…</string>
+    <string name="translating_text">Translating to target language…</string>
+    <string name="finalizing_subtitles">Finalizing subtitle tracks…</string>
+    <string name="cancel_process">Cancel</string>
+    <string name="processing_complete">Captions generated successfully!</string>
+    
+    <!-- Editor -->
+    <string name="edit_subtitle">Edit Subtitle</string>
+    <string name="source_text">Spoken Dialogue</string>
+    <string name="translated_text">Translated Subtitle</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="add_segment">Add Subtitle</string>
+    <string name="delete_segment">Delete</string>
+    <string name="split_segment">Split at Playhead</string>
+    <string name="merge_segment">Merge with Next</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="save_project">Save Project</string>
+    <string name="export_video">Export Video</string>
+    <string name="adjust_style">Caption Style</string>
+    
+    <!-- Style & Presets -->
+    <string name="caption_presets">Caption Presets</string>
+    <string name="typography">Typography</string>
+    <string name="font_size">Font Size</string>
+    <string name="font_color">Text Color</string>
+    <string name="outline_color">Outline</string>
+    <string name="background_color">Background Box</string>
+    <string name="shadow_color">Drop Shadow</string>
+    <string name="alignment">Text Alignment</string>
+    <string name="position">Vertical Position</string>
+    <string name="animation">Animation Effect</string>
+    
+    <!-- Export -->
+    <string name="export_settings">Export Settings</string>
+    <string name="export_format">Output Format</string>
+    <string name="export_format_mp4">MP4 Video (Subtitles Burned In)</string>
+    <string name="export_format_srt">SRT Subtitle File</string>
+    <string name="export_format_vtt">VTT Subtitle File</string>
+    <string name="export_quality">Video Quality</string>
+    <string name="export_resolution">Resolution</string>
+    <string name="exporting_progress">Rendering video with subtitles…</string>
+    <string name="export_successful">Export Complete!</string>
+    <string name="share_video">Share Video</string>
+    <string name="open_video">Play Exported Video</string>
+    
+    <!-- Models & Settings -->
+    <string name="speech_models">Speech Recognition Models</string>
+    <string name="translation_models">Translation Models</string>
+    <string name="model_installed">Installed</string>
+    <string name="model_download">Download</string>
+    <string name="model_size">Size: %s</string>
+    <string name="privacy_guarantee">100% On-Device Privacy</string>
+    <string name="privacy_desc">Videos, extracted audio, and generated transcripts are processed strictly on your hardware. No accounts, telemetry, or remote servers are contacted.</string>
+</resources>
